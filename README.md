@@ -1,10 +1,9 @@
 # lane-detection
 Land detection and histogram equalization
 #Intructions to run the files  
-
-Unzip the package  
-or  
-clone from github : git clone https://github.com/Madhunc5229/lane-detection  
+ 
+clone from github : 
+  `git clone https://github.com/Madhunc5229/lane-detection`
 
 For problem 01:  
 
