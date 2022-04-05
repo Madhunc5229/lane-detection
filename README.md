@@ -5,7 +5,7 @@ Land detection and histogram equalization
 clone from github:
 
 `git clone https://github.com/Madhunc5229/lane-detection`  
-
+`cd lane-detection`
 For problem 01:  
 
 `cd Problem01  `  
