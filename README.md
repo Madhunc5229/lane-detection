@@ -29,7 +29,26 @@
     python problem03.py
     cd ..
 
+## Histogram Equalization: 
 
-All the output videos are placed in Output videos  
+### Imput Image:
+![0000000000](https://user-images.githubusercontent.com/61328094/162033211-98bb0611-c1e2-4dac-86d7-63befd92f393.png)
+
+### Histogram Equalization: 
+![image](https://user-images.githubusercontent.com/61328094/162033277-1dccc820-4dcb-4761-a448-c31829717460.png)
+
+### Adpative Histogram Equalization with 8x8 blocks: 
+![image](https://user-images.githubusercontent.com/61328094/162033358-f958d699-e4ea-4cdd-a517-87c9442605a8.png)
+
+## Straight lane detection and differentiating between solid and dashed line: 
+
+https://user-images.githubusercontent.com/61328094/162033575-37694256-1a7a-4bc1-bfb3-2f352b939203.mp4
+
+## Curved lane detection and turn prediction: 
+
+https://user-images.githubusercontent.com/61328094/162034451-eb652e3f-f2c2-4f4f-b0fb-3dad8d8afdb7.mp4
+
+
+
 
 
