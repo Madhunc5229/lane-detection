@@ -1,28 +1,35 @@
 # lane-detection
-Land detection and histogram equalization
-#Intructions to run the files  
- 
-clone from github:
+### This project consists of 3 topics in computer vision. The first topic is histogram equalization and adaptive histogram equalization. The second topic is lane detection and differentiating between solid and dashed line. The third topic is curved lane detection and turn prediction.
 
-`git clone https://github.com/Madhunc5229/lane-detection`  
-`cd lane-detection`
-For problem 01:  
+## Dependencies
 
-`cd Problem01  `  
-`python problem01.py  `  
-`cd ..  `  
+-   Python
+-   Opencv 4.1.0
+-   Numpy
 
-For Problem 02: (Please press 'q' to end the image projection)  
+## Steps to run the package
+1.Clone the project 
 
-`cd Problem02 `   
-`python problem02.py  `  
-`cd ..  `  
+    git clone https://github.com/Madhunc5229/lane-detection
+    cd lane-detection
 
-For Problem 03: (Please press 'q' to end the image projection)  
-
-`cd Problem03 `   
-`python problem03.py `   
-`cd ..  `  
+2.For problem 01:
+    
+    cd Problem01 
+    python problem01.py
+    cd ..
+3.For problem 02:
+    
+    cd Problem02
+    python problem02.py
+    cd ..
+4.For problem 03:
+    
+    cd Problem03
+    python problem03.py
+    cd ..
 
 
 All the output videos are placed in Output videos  
+
+
