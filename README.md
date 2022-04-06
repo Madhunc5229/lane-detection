@@ -42,7 +42,10 @@
 
 ## Straight lane detection and differentiating between solid and dashed line: 
 
-https://user-images.githubusercontent.com/61328094/162033575-37694256-1a7a-4bc1-bfb3-2f352b939203.mp4
+
+https://user-images.githubusercontent.com/61328094/162034648-f12c769d-2312-4107-af5e-688aa5e9b24e.mp4
+
+
 
 ## Curved lane detection and turn prediction: 
 
