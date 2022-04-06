@@ -42,8 +42,7 @@
 
 ## Straight lane detection and differentiating between solid and dashed line: 
 
-
-https://user-images.githubusercontent.com/61328094/162034648-f12c769d-2312-4107-af5e-688aa5e9b24e.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/61328094/162035133-e7191b0a-4672-4f64-bbd8-492250a77c68.gif)
 
 
 
