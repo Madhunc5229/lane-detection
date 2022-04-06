@@ -48,9 +48,6 @@
 
 ## Curved lane detection and turn prediction: 
 
-https://user-images.githubusercontent.com/61328094/162034451-eb652e3f-f2c2-4f4f-b0fb-3dad8d8afdb7.mp4
-
-
-
+![curved_lane_detection](https://user-images.githubusercontent.com/61328094/162035742-06e841f3-6ab7-45be-a5f3-c6b4739955be.gif)
 
 
